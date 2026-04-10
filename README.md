@@ -19,3 +19,5 @@ app.run(debug=True, #port=5050) akan menjalankan server di port 5050, dan debug=
 
 
 apa yang terjadi jika variabelnya saya tambah, jadi saya menambahkan persen ke kode saya
+Cuplikan layar 2026-04-10 121544.png
+jadinya seperti ini
